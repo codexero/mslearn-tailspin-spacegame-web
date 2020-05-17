@@ -1,3 +1,4 @@
+[![Build Status](https://cyntax.visualstudio.com/WebGame%202.0%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://cyntax.visualstudio.com/WebGame%202.0%20Workflow/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
